@@ -3,3 +3,5 @@ Try - 2 : 24%
 Try - 3 : 28%
 TRY - 4 : 28%
 TRY - 5 : 28%
+Final : 28%
+Pretrained Model : 15%
